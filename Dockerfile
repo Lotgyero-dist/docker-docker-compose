@@ -14,6 +14,7 @@ RUN apk update \
     libffi-dev \
     make \
     openssl-dev \
+    openssh-client \
     py-pip \
     py3-pip \
     python3 \
